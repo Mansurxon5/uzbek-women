@@ -1,0 +1,50 @@
+[
+      {
+            "id": 1,
+            "image": "https://uzbek-women-frontend.netlify.app/images/Women%20Clothing/1.jpg",
+            "text": "8 sekundli gul suyagi qatlamli ko'ylak",
+            "price": "77,40$"
+      },
+      {
+            "id": 2,
+            "image": "https://uzbek-women-frontend.netlify.app/images/Women%20Clothing/2.jpg",
+            "text": "O'rta uzunlikdagi peluş sviterli KAC bo'shashgan bel ko'ylagi - xom oq va oq",
+            "price": "11,90$"
+      },
+      {
+            "id": 3,
+            "image": "https://uzbek-women-frontend.netlify.app/images/Women%20Clothing/3.jpg",
+            "text": "O'rta uzunlikdagi peluş sviterli KAC bo'sh bel ko'ylagi - qora",
+            "price": "11,90$"
+      },
+      {
+            "id": 4,
+            "image": "https://uzbek-women-frontend.netlify.app/images/Women%20Clothing/4.jpg",
+            "text": "8 sekundli ko'ylak pilili mini ko'ylak Qora",
+            "price": "77,40$"
+      },
+      {
+            "id": 5,
+            "image": "https://uzbek-women-frontend.netlify.app/images/Women%20Clothing/5.jpg",
+            "text": "8 soniyali qatlamli jinsi libos qora",
+            "price": "77,40$"
+      },
+      {
+            "id": 6,
+            "image": "https://uzbek-women-frontend.netlify.app/images/Women%20Clothing/6.jpg",
+            "text": "KAC Ayollar kostyumi ko'ylagi Bel Slim Professional Swing O'rta uzunlikdagi",
+            "price": "60,77$"
+      },
+      {
+            "id": 7,
+            "image": "https://uzbek-women-frontend.netlify.app/images/Women%20Clothing/7.jpg",
+            "text": "Choper yelkasiga o'ralgan ko'ylak",
+            "price": "39,99$"
+      },
+      {
+            "id": 8,
+            "image": "https://uzbek-women-frontend.netlify.app/images/Women%20Clothing/8.jpg",
+            "text": "MOON Duo uzun trikotaj ko'ylak",
+            "price": "64,99$"
+      }
+]

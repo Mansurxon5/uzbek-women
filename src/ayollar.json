@@ -1,0 +1,38 @@
+[
+      {
+            "id": 1,
+            "name": "Ayollar Huquqi",
+            "text": "Ayollar Huquqi - Ayollarning ijtimoiy-iqtisodiy, fuqarolik va siyosiy mavqeyini mustahkamlaydigan huquqlardir. Ular ayollarni jinsga qarab kamsitishlardan himoya qilish uchun mo‘ljallangan.",
+            "image": "https://uzbek-women-frontend.netlify.app/images/header/1.jpg"
+      },
+      {
+            "id": 2,
+            "name": "Ayollar Psixologiyasi",
+            "text": "Ayollarning psixologiyasi - ko'pincha erkaklar uchun sir bo'lib qoladi. Bu biologik va psixologik farqlarga asoslanadi. Ayollar va erkaklar har xil fikrlash, xatti-harakatlar va muloqot uslubiga ega. Shu sababli, munosabatlarda juda ko'p kelishmovchiliklar paydo bo'ladi.",
+            "image": "https://uzbek-women-frontend.netlify.app/images/header/2.jpg"
+      },
+      {
+            "id": 3,
+            "name": "Tibbiy Muammolarga yechimlar",
+            "text": "Agar siz qalqonsimon bez bilan bog'liq muammolarga duch kelsangiz, shifokoringiz qalqonsimon bezning mumkin bo'lgan buzilishlarini aniqlash uchun ultratovush tekshiruvini o'tkazishi mumkin...",
+            "image": "https://uzbek-women-frontend.netlify.app/images/header/3.png"
+      },
+      {
+            "id": 4,
+            "name": "Ayollar Fitnesi",
+            "text": "Sog'ligingiz va fitnesingizni nazorat qilish chekishni tashlaganingizdan keyin qila oladigan eng kuchli narsalardan biridir. Ammo siz qanchalik g'ayratli bo'lishingizdan qat'i nazar, birinchi marta sport zaliga qadam qo'yish qo'rqinchli tajriba bo'lishi mumkin. Darhaqiqat, ba'zi odamlar ketishdan oldin butunlay to'xtab qolishlari odatiy hol emas...",
+            "image": "https://uzbek-women-frontend.netlify.app/images/header/4.jpg"
+      },
+      {
+            "id": 5,
+            "name": "Ayollar Kiyimlari",
+            "text": "Sugarlandiyadagi ayollar endi tabassumiga shirin uslub bilan hamroh bo'lishlari mumkin...",
+            "image": "https://uzbek-women-frontend.netlify.app/images/header/5.jpg"
+      },
+      {
+            "id": 6,
+            "name": "Ayollar Uchun Madaniy Hordiq",
+            "text": "Halqa (SevimliPlay) Turk Serial 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 qismlar Uzbek tilida...",
+            "image": "https://uzbek-women-frontend.netlify.app/images/header/6.jpg"
+      }
+]

@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.header-page:hover{
+      scale: 1.02;
+}
+.header-page {
+      transition: all .2s linear;
+}
